@@ -44,8 +44,8 @@
 
 **Automation Engine**
 - Selenium WebDriver
-- Python + UnitTest / PyTest
-- Page Object Model
+- Python + UnitTest 
+- Shadow DOM/iFrame
 
 </td>
 <td>
