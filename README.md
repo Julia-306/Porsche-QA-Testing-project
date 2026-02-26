@@ -116,7 +116,7 @@
 <tr>
 <td align="center">
 
-<img src="сюда ссылку на картинку" width="70"/><br>
+<img src="https://avatars.githubusercontent.com/u/39344112?v=4" width="70"/><br>
 **Name Surname**<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](ссылка на github) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](ссылка на linkedin)
 
